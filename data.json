@@ -1,0 +1,55 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Sneakers",
+      "createdAt": 12,
+      "updatedAt": 12
+    },
+    {
+      "name": "Running Shoes",
+      "id": 2
+    },
+    {
+      "name": "Boots",
+      "id": 3
+    },
+    {
+      "name": "High Heels",
+      "id": 4
+    }
+  ],
+  "shoes": [
+    {
+      "formId": "",
+      "name": "Jordan XI",
+      "description": "bagus",
+      "price": "1200000",
+      "mainImg": "test",
+      "categoryId": "1",
+      "createdAt": "2023-09-07T09:01:54.611Z",
+      "updatedAt": "2023-09-07T09:01:54.611Z",
+      "id": 1,
+      "category": {
+        "id": 1,
+        "name": "Sneakers",
+        "createdAt": 12,
+        "updatedAt": 12
+      }
+    },
+    {
+      "formId": "",
+      "name": "Jordan 4 Bred",
+      "description": "bagus",
+      "price": "120000",
+      "mainImg": "test",
+      "categoryId": "1",
+      "createdAt": "2023-09-07T09:05:45.458Z",
+      "updatedAt": "2023-09-07T09:05:45.458Z",
+      "id": 2
+    }
+  ],
+  "users": [
+    {}
+  ]
+}
